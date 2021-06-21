@@ -1,6 +1,6 @@
-@import "reset.css";
-@import "status-bar.css";
-@import "variables.css";
+@import "../reset.css";
+@import "../components/status-bar.css";
+@import "../variables.css";
 
 body{
     background-color:"tomato";

@@ -2,7 +2,9 @@
     display: flex;
     justify-content: space-between;
     align-items:center;
-    padding:var(--horizontal-space);
+    /* padding:var(--horizontal-space); */
+    padding:40px 20px 25px 25px;
+    margin-bottom: 10px;
 }
 
 .screen-header__title{
